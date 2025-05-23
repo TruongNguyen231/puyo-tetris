@@ -1,0 +1,44 @@
+{
+    "scores": [
+        {
+            "scores": 12100,
+            "destroyedPuyo": 92
+        },
+        {
+            "scores": 9100,
+            "destroyedPuyo": 80
+        },
+        {
+            "scores": 6100,
+            "destroyedPuyo": 47
+        },
+        {
+            "scores": 4500,
+            "destroyedPuyo": 41
+        },
+        {
+            "scores": 4100,
+            "destroyedPuyo": 41
+        },
+        {
+            "scores": 3800,
+            "destroyedPuyo": 34
+        },
+        {
+            "scores": 3600,
+            "destroyedPuyo": 28
+        },
+        {
+            "scores": 1600,
+            "destroyedPuyo": 12
+        },
+        {
+            "scores": 1200,
+            "destroyedPuyo": 12
+        },
+        {
+            "scores": 400,
+            "destroyedPuyo": 4
+        }
+    ]
+}
