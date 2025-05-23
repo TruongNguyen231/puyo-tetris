@@ -7,7 +7,7 @@ Puyo-Puyo
     
 ## Demo
 
-[Youtube]( https://youtu.be/k4L_oAiN6DM )
+
 
 ![demo_img1](/img/demo_img1.PNG)
 ![demo_img2](/img/demo_img2.PNG)
